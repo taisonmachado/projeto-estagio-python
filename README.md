@@ -1,5 +1,6 @@
 # projeto-estagio-python
- Desáfio Técnico usando Python e Selenium para vaga de estágio.
+ Desafio Técnico usando Python e Selenium para vaga de estágio.
+ O programa entra no site https://www.acordacidade.com.br , localiza a matéria em destaque e recupera as informações de título e conteúdo da matéria.
 
 ## Configurações
 
